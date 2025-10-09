@@ -217,8 +217,6 @@ Museu da Matemática — **Prandiano**: modelagem, otimização, **análise esta
 **Stack & Ferramentas**  
 Python • ROS 2 (Jazzy/Turtlesim) • Java (GUI) • C / Assembly x86 16-bit • Node.js • **MongoDB Atlas** • Linux (**Arch/Hyprland**) • Virtualização (**VirtualBox/KVM**) • Git/GitHub
 
-**Interesses**  
-Robótica, sistemas distribuídos, automação, segurança (ofensiva/defensiva), otimização matemática aplicada, engenharia de dados para telemetria/controle.
 
 **GitHub**  
 [github.com/Gengo250](https://github.com/Gengo250)

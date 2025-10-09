@@ -210,11 +210,8 @@ payload = {
 
 ## Autor
 
-**Miguel de Castilho Gengo** · RA **24009007**  
+**Miguel de Castilho Gengo** 
 Estudante de **Engenharia de Computação — PUC-Campinas**
-
-**Posicionamento**  
-Engenheiro em formação que integra **hardware + software + lógica aplicada + segurança** para resolver problemas reais com clareza de código, testes e automação.
 
 **Experiências e focos (2024–2025)**  
 - Arquiteturas distribuídas com **ROS 2**; **controle de robôs em tempo real**.  

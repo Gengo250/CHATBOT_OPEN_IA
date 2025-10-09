@@ -178,16 +178,6 @@ payload = {
 
 ---
 
-## Roadmap curto (prático)
-
-- [ ] **Streaming** da resposta (render incremental).  
-- [ ] Exportar conversa em **Markdown/JSON**.  
-- [ ] Drag & drop de imagens.  
-- [ ] Botão “Copiar resposta” e suporte básico a **Markdown**.  
-- [ ] Limite configurável de imagens por mensagem.
-
----
-
 ## Arquitetura (diagrama simples)
 
 ```

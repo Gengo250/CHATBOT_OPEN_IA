@@ -211,7 +211,8 @@ payload = {
 ## Autor
 
 **Miguel de Castilho Gengo** 
-Estudante de **Engenharia de Computação — PUC-Campinas**
+
+- Estudante de **Engenharia de Computação — PUC-Campinas**
 
 **Experiências e focos (2024–2025)**  
 - Arquiteturas distribuídas com **ROS 2**; **controle de robôs em tempo real**.  

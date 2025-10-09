@@ -33,6 +33,10 @@ O projeto prioriza UX estável (UI não congela), simplicidade do fluxo e práti
 - Pré-visualização: `Pillow` cria miniaturas com `Image.thumbnail(...)` e exibe com `ImageTk.PhotoImage`.  
 - Ajustes de UX: `Ctrl+Enter` envia, botão “Nova conversa”, indicador de anexos pendentes, **scroll** automático.
 
+
+![Chatbot Multimodal — UI Tkinter](assets/screenshot_chatbot_tkinter.png)
+
+
 ### 2) Concorrência: threading + `after(...)`
 - A requisição HTTPS roda em `threading.Thread`.  
 - Quando a resposta chega, usamos `self.after(0, callback)` para **voltar** ao *main loop* com segurança e atualizar a UI.  

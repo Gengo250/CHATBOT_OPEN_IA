@@ -234,7 +234,7 @@ Robótica, sistemas distribuídos, automação, segurança (ofensiva/defensiva),
 [github.com/Gengo250](https://github.com/Gengo250)
 
 **LinkedIn**  
-[linkedin.com/in/SEU-LINK-AQUI](www.linkedin.com/in/miguel-gengo) <!-- substitua pelo seu URL real -->
+[linkedin.com/in/](www.linkedin.com/in/gengo-miguel) <!-- substitua pelo seu URL real -->
 
 ---
 ## Créditos e licença

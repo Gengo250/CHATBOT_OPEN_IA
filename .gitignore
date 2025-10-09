@@ -1,0 +1,19 @@
+# --- manter apenas o arquivo seguro dentro da pasta do agente ---
+
+# Ignore tudo dentro da pasta
+AGENTE_IA_API_OPENAI/*
+
+# Exceto este arquivo:
+!AGENTE_IA_API_OPENAI/Agente_IA_LINUX_G.py
+
+# --- segredos e lixo de build (global/redundante) ---
+**/SENHA.py
+**/.env
+**/.env.*
+**/__pycache__/
+**/*.py[cod]
+**/*.log
+
+# Manter estes arquivos caso existam no repositório
+!.gitignore
+!README.md

@@ -228,6 +228,4 @@ Python • ROS 2 (Jazzy/Turtlesim) • Java (GUI) • C / Assembly x86 16-bit �
 ## Créditos e licença
 
 - **OpenAI API** • **Pillow** • **Tkinter**  
-- Recomenda-se licença **MIT** (adicione arquivo `LICENSE`).
 
-> Sugestões e PRs são bem-vindos — mantenha mudanças pequenas e auditáveis.

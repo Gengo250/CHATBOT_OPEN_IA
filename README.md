@@ -80,7 +80,7 @@ O projeto prioriza UX estável (UI não congela), simplicidade do fluxo e práti
 
 ---
 
-## Instalação (Linux/Arch-friendly)
+## Instalação (Versão Linux)
 
 **Dependências do sistema**
 ```bash

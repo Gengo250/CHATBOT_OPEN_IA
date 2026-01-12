@@ -13,7 +13,7 @@ O projeto prioriza UX estável (UI não congela), simplicidade do fluxo e práti
 
 ---
 
-## Visão geral (sem enrolação)
+## Visão geral
 
 - **UI**: `Tkinter + ttk`, chat rolável, thumbnails de anexos, atalho **Ctrl+Enter**.  
 - **Networking**: `requests` chamando `/v1/chat/completions` em **thread** separada → a UI permanece responsiva.  
